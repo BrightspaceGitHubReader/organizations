@@ -1,5 +1,5 @@
 {
-   "ended" : "S’est terminé le {date} à {time}",
-   "endsAt" : "Se termine le {date} à {time}",
+   "ended" : "Terminé le {date} à {time}",
+   "endsAt" : "Termine le {date} à {time}",
    "startsAt" : "Commence le {date} à {time}"
 }

@@ -1,11 +1,11 @@
 {
-   "unapprovedDiscussions" : "{number} discussions non approuvées",
-   "unattemptedQuizzes" : "{number} questionnaires sans tentative",
-   "ungradedQuizzes" : "{number} questionnaires non notés",
-   "unreadAssignmentFeedback" : "{number} rétroaction(s) de travail non lue(s)",
-   "unreadAssignmentSubmissions" : "{number} soumission(s) de travail non lue(s)",
-   "unreadDiscussionFeedback" : "{number} rétroaction(s) de discussion non lue(s)",
-   "unreadDiscussions" : "{number} discussions non lues",
-   "unreadQuizzesFeedback" : "{number} rétroaction(s) de questionnaire non lue(s)",
+   "unapprovedDiscussions" : "{number} discussions non approuvées",
+   "unattemptedQuizzes" : "{number} questionnaires sans tentative",
+   "ungradedQuizzes" : "{number} questionnaires non notés",
+   "unreadAssignmentFeedback" : "{number} réactions au devoir non lues",
+   "unreadAssignmentSubmissions" : "{number} soumissions de devoirs non lues",
+   "unreadDiscussionFeedback" : "{number} réactions à la discussion non lues",
+   "unreadDiscussions" : "{number} discussions non lues",
+   "unreadQuizzesFeedback" : "{number} réactions aux questionnaires non lues",
    "updates" : "mises à jour"
 }
