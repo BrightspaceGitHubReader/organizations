@@ -16,7 +16,7 @@
         "translation" : "{number} 個未讀取的作業意見反應"
     },
     "unreadAssignmentSubmissions" : {
-        "context" : "The number of assignment files that still need to be read.",
+        "context" : "The number of assignment submissions that still need to be read.",
         "translation" : "{number} 個未讀取的作業提交檔案"
     },
     "unreadDiscussionFeedback" : {

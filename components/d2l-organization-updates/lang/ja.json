@@ -16,7 +16,7 @@
         "translation" : "未読の課題フィードバック数 {number}"
     },
     "unreadAssignmentSubmissions" : {
-        "context" : "The number of assignment files that still need to be read.",
+        "context" : "The number of assignment submissions that still need to be read.",
         "translation" : "未読の課題送信ファイル数 {number}"
     },
     "unreadDiscussionFeedback" : {

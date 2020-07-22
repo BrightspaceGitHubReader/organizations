@@ -16,7 +16,7 @@
         "translation" : "{number} من ملاحظات الفرض غير المقروءة"
     },
     "unreadAssignmentSubmissions" : {
-        "context" : "The number of assignment files that still need to be read.",
+        "context" : "The number of assignment submissions that still need to be read.",
         "translation" : "{number} من ملفات إرسال الفروض غير المقروءة"
     },
     "unreadDiscussionFeedback" : {

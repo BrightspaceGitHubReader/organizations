@@ -1,38 +1,38 @@
 {
     "unapprovedDiscussions" : {
         "context" : "The number of discussion post that need to be reviewed",
-        "translation" : "{number} nicht genehmigte Diskussionen"
+        "translation" : "{number} Unapproved Discussions"
     },
     "unattemptedQuizzes" : {
         "context" : "The amount of quizes that a user has not done.",
-        "translation" : "{number} nicht beantwortete Tests"
+        "translation" : "{number} Unattempted Quizzes"
     },
     "ungradedQuizzes" : {
         "context" : "The number of quizzes that need to be marked",
-        "translation" : "{number} nicht bewertete Tests"
+        "translation" : "{number} Ungraded Quizzes"
     },
     "unreadAssignmentFeedback" : {
         "context" : "The amount of feedback comments that a user has not read about assignments",
-        "translation" : "{number} ungelesene Feedbacks zu Aufgaben"
+        "translation" : "{number} Unread Assignment Feedback"
     },
     "unreadAssignmentSubmissions" : {
         "context" : "The number of assignment submissions that still need to be read.",
-        "translation" : "{number} ungelesene abgegebene Aufgabendateien"
+        "translation" : "{number} New Assignment Submissions"
     },
     "unreadDiscussionFeedback" : {
         "context" : "The amount of feedback comments that a user has not read about discussion",
-        "translation" : "{number} ungelesene Feedbacks zu Diskussionen"
+        "translation" : "{number} Unread Discussion Feedback"
     },
     "unreadDiscussions" : {
         "context" : "The number of new discussion posts",
-        "translation" : "{number} ungelesene Diskussionen"
+        "translation" : "{number} Unread Discussions"
     },
     "unreadQuizzesFeedback" : {
         "context" : "The amount of feedback comments that a user has not read about quizzes",
-        "translation" : "{number} ungelesene Feedbacks zu Tests"
+        "translation" : "{number} Unread Quizzes Feedback"
     },
     "updates" : {
         "context" : "The total number of updates a course has for a user. Sum of all the other terms.",
-        "translation" : "Aktualisierungen"
+        "translation" : "updates"
     }
 }

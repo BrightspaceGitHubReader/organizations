@@ -1,14 +1,14 @@
 {
     "ended" : {
         "context" : "End date and time that is in the past",
-        "translation" : "Sluttede {date} kl. {time}"
+        "translation" : "Ended {date} at {time}"
     },
     "endsAt" : {
         "context" : "End date and time that is in the future.",
-        "translation" : "Slutter {date} kl. {time}"
+        "translation" : "Ends {date} at {time}"
     },
     "startsAt" : {
         "context" : "Start date and time that is in the future",
-        "translation" : "Begynder {date} kl. {time}"
+        "translation" : "Starts {date} at {time}"
     }
 }
